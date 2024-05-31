@@ -10,7 +10,7 @@ public class Driver {
         while (true) {
             System.out.println("Pilih operasi:");
             System.out.println("1. Penjumlahan");
-            System.out.println("2. kurang");
+            System.out.println("2. pengurangan");
             System.out.println("3. Perkalian");
             System.out.println("4. Pembagian");
             System.out.println("0. Keluar");
