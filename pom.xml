@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/Iqius/pp</url>
+      <url>https://maven.pkg.github.com/Iqius/latihan2</url>
     </repository>
   </distributionManagement>
   
